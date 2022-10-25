@@ -66,6 +66,8 @@ html {
   font-size: 63.5%;
 
   overflow-x: hidden;
+  /* doesnt work on Safari or Edge browser */
+  /* scroll-behavior: smooth; */
 }
 
 body {
